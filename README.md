@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @JosueSeRa04
-- 👀 I’m interested in cibersecurity
-- 🌱 I’m currently learning IA
+- 👀 I’m studying Artificial Inteligent
+- 🌱 I’m currently learning web programming
+- 👍 Developer
 - 📫 How to reach me for email josuserram@gmail.com
 
 <!---
