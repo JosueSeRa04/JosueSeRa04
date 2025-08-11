@@ -2,7 +2,6 @@
 Hi, I'm Josue Serrano Ramos!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
- <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/JosueSeRa04/JosueSeRa04/"> </a> 
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -10,7 +9,7 @@ Hi, I'm Josue Serrano Ramos!
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Artificial+Intelligence+Student;Full+Stack+Web+Developer;Freelancer;BA%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXpva2RvbjkyMmFrNm11YWQ0NGtpd3RsM253OXVtaWcyMTNlMTk5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bu9HvCRRp7MjpT2/giphy.gif" alt="Obtined from GIPHY" width="320" />
+<img align="left" src="https://docs.pytorch.org/tutorials/_images/bot.png" alt="Obtained from PyTorch documentation" width="320" />
 <hr>
 
 ```
@@ -40,6 +39,8 @@ JosueSeRa04@github
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Amatlab"><img alt="MATLAB" src="https://img.shields.io/badge/MATLAB%20-%231572B6.svg?logo=matlab3&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ac++"><img alt="C++" src="https://img.shields.io/badge/C++%20-%231572B6.svg?logo=c++3&logoColor=white"></a>
 
 ### 🧰 Frameworks and Libraries
 
@@ -48,6 +49,7 @@ JosueSeRa04@github
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+  <a href="#"><img alt="Scikit-Learn" src="https://img.shields.io/badge/SickitLearn%20-%5FB02C.svg?logo=ScikitLearn&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
     <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 
@@ -58,6 +60,7 @@ JosueSeRa04@github
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-32696B?style=for-the-badge&logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
 </p>
 
@@ -70,7 +73,6 @@ JosueSeRa04@github
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
@@ -78,16 +80,17 @@ JosueSeRa04@github
 ## GitHub Stats
 
 
-|                                                                     Vishal's Stats                                                                     |
+|                                                                     Josue's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=I-am-vishalmaurya&theme=react-dark&hide_border=true&area=true) |
-| ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&theme=algolia)              | 
-| ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=I-am-vishalmaurya&theme=algolia)                    | 
+| ![Josue's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=JosueSeRa04&theme=react-dark&hide_border=true&area=true)
+) |
+| ![Josue's github stats](https://github-readme-stats.vercel.app/api?username=JosueSeRa04&show_icons=true&theme=algolia)              | 
+| ![Josue's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JosueSeRa04&theme=algolia)                    | 
     
 
-|                                                                                                      Vishal's Stars                                                                                                       |                                                           Top Languages                                                           |      
+|                                                                                                      Josue's Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=algolia&layout=compact) |
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=JosueSeRa04&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=algolia&layout=compact) |
 
 
 
@@ -109,16 +112,14 @@ You can hire me as a freelancer on <a href="https://www.linkedin.com/in/josué-s
 
 **<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
 
-“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-– Elon Musk
+“The first gulp from the glass of natural sciences will turn you into an atheist, but at the bottom of the glass God is waiting for you.”
+– Werner Heisenberg
 
   </td>
   </tr>
 </table>
 
 ------
-Credits: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)
-Last Edited On: 18/04/2022
 
 
 
