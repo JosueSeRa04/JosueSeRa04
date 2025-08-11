@@ -39,8 +39,8 @@ JosueSeRa04@github
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Amatlab"><img alt="MATLAB" src="https://img.shields.io/badge/MATLAB%20-%231572B6.svg?logo=matlab3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ac++"><img alt="C++" src="https://img.shields.io/badge/C++%20-%231572B6.svg?logo=c++3&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Amatlab"><img alt="MATLAB" src="https://img.shields.io/badge/MATLAB%20-BD2000?logo=matlab3&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ac++"><img alt="C++" src="https://img.shields.io/badge/C++%20-05B6E3?logo=c++3&logoColor=white"></a>
 
 ### 🧰 Frameworks and Libraries
 
@@ -58,10 +58,10 @@ JosueSeRa04@github
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-32696B?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-32696B?style=for-the-badge&logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
 </p>
 
 ### 💻 Software and Tools
