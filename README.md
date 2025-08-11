@@ -19,9 +19,9 @@ JosueSeRa04@github
 📚 I have a Bachelors in Artificial Intelligence from the National Polytechnic Institute
 📝 I have a strong interest in Artificial Intelligence
 🔭 Working on Bioinspired Algorithms on dynamic environments
-🌱 Learning about Computer Vision and Machine Learning stuff
+🌱 Learning about Neural Networks and Machine Learning stuff
 🌟 Main languages: Python, JavaScript, MATLAB
-🚩 Interested in Full Stack Bioinspired Algoirthms Application development
+🚩 Interested in Bioinspired Algoirthms Application development
 🎵 Love metal and clasical music 
 ```
 <hr>
