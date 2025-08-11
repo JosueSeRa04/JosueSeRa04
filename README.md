@@ -15,9 +15,9 @@ Hi, I'm Josue Serrano Ramos!
 ```
 JosueSeRa04@github
 -------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
+💻 I am a self taught Full Stack Developer and a AI Developer
 📚 I have a Bachelors in Artificial Intelligence from the National Polytechnic Institute
-📝 I have a strong interest in Artificial Intelligence
+📝 I have a strong interest in Machine Learning
 🔭 Working on Bioinspired Algorithms on dynamic environments
 🌱 Learning about Neural Networks and Machine Learning stuff
 🌟 Main languages: Python, JavaScript, MATLAB
