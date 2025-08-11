@@ -108,7 +108,7 @@ You can hire me as a freelancer on <a href="https://www.linkedin.com/in/josué-s
   </td>
   <td width="50%" valign="top">
 
-## It's not perfect, isn't it?
+## Everything makes sense if we think beyond what we can see.
 
 **<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
 
