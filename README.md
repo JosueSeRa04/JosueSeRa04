@@ -82,10 +82,9 @@ JosueSeRa04@github
 
 |                                                                     Josue's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Josue's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=JosueSeRa04&theme=react-dark&hide_border=true&area=true)
-) |
+| ![Josue's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=JosueSeRa04&theme=react-dark&hide_border=true&area=true) |
 | ![Josue's github stats](https://github-readme-stats.vercel.app/api?username=JosueSeRa04&show_icons=true&theme=algolia)              | 
-| ![Josue's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JosueSeRa04&theme=algolia)                    | 
+| ![Josue's GitHub Streak](https://streak-stats.demolab.com/?user=JosueSeRa04&theme=algolia)                   | 
     
 
 |                                                                                                      Josue's Stars                                                                                                       |                                                           Top Languages                                                           |      
